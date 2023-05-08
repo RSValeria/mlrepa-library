@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mlrepa.github.io/mlrepa-library/</loc>
+         <lastmod>2023-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mlrepa.github.io/mlrepa-library/community/author-guide/</loc>
+         <lastmod>2023-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mlrepa.github.io/mlrepa-library/community/contribution-guide/</loc>
+         <lastmod>2023-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mlrepa.github.io/mlrepa-library/project/</loc>
+         <lastmod>2023-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mlrepa.github.io/mlrepa-library/project/1-cli-get-started/</loc>
+         <lastmod>2023-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
